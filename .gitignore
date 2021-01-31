@@ -1,0 +1,15 @@
+bp/
+tests/
+home_heroku_installer/bp/
+home_heroku_installer/tests/
+Debug/home_heroku_installer.ilk
+Debug/home_heroku_installer.pdb
+home_heroku_installer/Debug/
+home_heroku_installer/homely/
+home_heroku_installer/logs/
+home_heroku_installer/home_heroku_installer.vcxproj
+home_heroku_installer/home_heroku_installer.vcxproj.filters
+home_heroku_installer/home_heroku_installer.vcxproj.user
+home_heroku_installer/*.bat
+home_heroku_installer/install_stage.txt
+home_heroku_installer/source.cpp
