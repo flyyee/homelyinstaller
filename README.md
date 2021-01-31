@@ -6,7 +6,7 @@
 
 ## About
 
-The installer automates the installation of [Homely](https://github.com/flyyee/homelyinstaller). A [manual set-up guide](https://github.com/flyyee/homelyinstaller/archive/master.zip) is available on the Homely repo.
+This installer automates the installation of [Homely](https://github.com/flyyee/homelyinstaller). A [manual set-up guide](https://github.com/flyyee/homelyinstaller/archive/master.zip) is available on the Homely repo.
 
 NOTE: A (free) [Heroku](https://www.heroku.com/) account is required for you to host the Homely server.
 
@@ -16,7 +16,7 @@ NOTE: A (free) [Heroku](https://www.heroku.com/) account is required for you to 
 
 **IMPORTANT: The installer is compiled with VS2019 64bit**
 
-1. Create a [Heroku account](https://signup.heroku.com/). This is required for you to host the server yourself.
+1. Create a [Heroku account](https://signup.heroku.com/).
 2. Download this [repository](https://github.com/flyyee/homelyinstaller/archive/master.zip) and extract its contents.
 3. Run the installer located in the "Debug" folder.
 4. Follow the steps in the installer.
@@ -26,7 +26,7 @@ NOTE: A (free) [Heroku](https://www.heroku.com/) account is required for you to 
 
 ## Usage
 
-A [guide to command line usage](https://github.com/flyyee/homely#usage) of the launcher is available on the Homely repo.
+A [guide to command line usage](https://github.com/flyyee/homely#usage) of the launcher can be found on the Homely repo.
 
 1. Navigate to the main installation folder (called "Homely" by default).
 2. Place files you wish to remotely access in the data folder. It is currently populated with sample files and folders.
