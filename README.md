@@ -6,7 +6,7 @@
 
 ## About
 
-#### The installer automates the installation of [Homely](https://github.com/flyyee/homelyinstaller). A [manual set-up guide](https://github.com/flyyee/homelyinstaller/archive/master.zip) is available on the Homely repo.
+The installer automates the installation of [Homely](https://github.com/flyyee/homelyinstaller). A [manual set-up guide](https://github.com/flyyee/homelyinstaller/archive/master.zip) is available on the Homely repo.
 
 NOTE: A (free) [Heroku](https://www.heroku.com/) account is required for you to host the Homely server.
 
@@ -14,7 +14,7 @@ NOTE: A (free) [Heroku](https://www.heroku.com/) account is required for you to 
 
 ## Set-up
 
-#### IMPORTANT: The installer is compiled with VS2019 64bit*
+**IMPORTANT: The installer is compiled with VS2019 64bit**
 
 1. Create a [Heroku account](https://signup.heroku.com/). This is required for you to host the server yourself.
 2. Download this [repository](https://github.com/flyyee/homelyinstaller/archive/master.zip) and extract its contents.
@@ -26,7 +26,7 @@ NOTE: A (free) [Heroku](https://www.heroku.com/) account is required for you to 
 
 ## Usage
 
-#### A [guide to command line usage](https://github.com/flyyee/homely#usage) of the launcher is available on the Homely repo.
+A [guide to command line usage](https://github.com/flyyee/homely#usage) of the launcher is available on the Homely repo.
 
 1. Navigate to the main installation folder (called "Homely" by default).
 2. Place files you wish to remotely access in the data folder. It is currently populated with sample files and folders.
@@ -38,6 +38,8 @@ NOTE: A (free) [Heroku](https://www.heroku.com/) account is required for you to 
 ## Manual compilation
 
 *This set-up is only recommended for advanced users.*
+
+The installer only uses non-experimental standard library features and does not have any external dependencies. Compilation should work under most C++ standards.
 
 1. Clone the repository.
 2. Open the solution file with Visual Studio.
